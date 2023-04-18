@@ -1,7 +1,8 @@
-//Escreva um programa que aloque dinamicamente uma matriz ''m'' e a preencha com ''i + j'',
- //sendo que o número de linhas e colunas são lidos do teclado e a área de memória alocada deve ser definida em função do tamanho da matriz.
- // Após isso, exiba na tela os elementos da matriz. Por fim, libere a memória alocada para a matriz.
-
+/*
+Escreva um programa que aloque dinamicamente uma matriz ''m'' e a preencha com ''i + j'',
+sendo que o número de linhas e colunas são lidos do teclado e a área de memória alocada deve ser definida em função do tamanho da matriz.
+Após isso, exiba na tela os elementos da matriz. Por fim, libere a memória alocada para a matriz.
+*/
  #include <stdio.h>
 #include <stdlib.h>
  
