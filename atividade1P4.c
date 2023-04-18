@@ -1,11 +1,12 @@
- //Escreva um programa que leia números inteiros do teclado e os armazene em um vetor alocado dinamicamente.
- //O usuário irá digitar uma sequência de números, sem limite de quantidade. Os números serão digitados um a um e, 
- //sendo que caso ele deseje encerrar a entrada de dados, ele irá digitar o número ZERO. Os dados devem ser armazenados na memória deste modo: 
- //a) Inicie o programa com um vetor de números inteiros de tamanho 3 alocado dinamicamente; 
- //b) Caso o espaço alocado esteja cheio, realoque espaço para mais 3 números inteiros; 
- //c) Após o usuário digitar o número ZERO, exiba na tela os elementos do vetor e 
- //d) Por fim, libere a memória alocada para o vetor.
-
+ /*
+ Escreva um programa que leia números inteiros do teclado e os armazene em um vetor alocado dinamicamente.
+ O usuário irá digitar uma sequência de números, sem limite de quantidade. Os números serão digitados um a um e, 
+ sendo que caso ele deseje encerrar a entrada de dados, ele irá digitar o número ZERO. Os dados devem ser armazenados na memória deste modo: 
+ a) Inicie o programa com um vetor de números inteiros de tamanho 3 alocado dinamicamente; 
+ b) Caso o espaço alocado esteja cheio, realoque espaço para mais 3 números inteiros; 
+ c) Após o usuário digitar o número ZERO, exiba na tela os elementos do vetor e 
+ d) Por fim, libere a memória alocada para o vetor.
+*/
 
 
  #include <stdio.h>
