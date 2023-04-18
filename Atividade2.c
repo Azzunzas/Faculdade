@@ -21,7 +21,8 @@ selecionada no menu.
 
 - Para a opção 3, caso o elemento exista na pilha, deverá ser mostrado em qual posição da pilha o
 
-mesmo se encontra. Caso contrário, deverá ser mostrada a mensagem "Elemento não encontrado".*/
+mesmo se encontra. Caso contrário, deverá ser mostrada a mensagem "Elemento não encontrado".
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
