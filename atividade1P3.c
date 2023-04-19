@@ -1,4 +1,5 @@
-/*Escreva um programa que aloque dinamicamente uma estrutura para armazenar dados sobre veículos (fabricante, modelo, ano e preço), 
+/*
+Escreva um programa que aloque dinamicamente uma estrutura para armazenar dados sobre veículos (fabricante, modelo, ano e preço), 
 sendo que o número de registros (pelo menos 2 registros) é lido do teclado e a memória alocada deve ser definida em função do tamanho da estrutura.
  Após isso, exiba na tela apenas os dados do segundo veículo cadastrado. Por fim, libere a memória alocada para a estrutura.
 */
